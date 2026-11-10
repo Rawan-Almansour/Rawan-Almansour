@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there! 👋
+
+I'm Rawan, a Senior in Information Technology & Computing at Arab Open University.
+## 🎓 About Me
+- Final-year university student.
+- Interested in Information Technology and Software Development.
+- Exploring Networking and Cybersecurity.
+- Currently developing my technical skills.
+- Looking for a Cooperative Training opportunity (COOP).
 
 <!--
 **Rawan-Almansour/Rawan-Almansour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
